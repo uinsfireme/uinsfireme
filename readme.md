@@ -6,10 +6,10 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning:
-  - <img align="left" width="26px" src="https://simpleicons.org/icons/html5.svg" alt="HTML5"> HTML
-  - <img align="left" width="26px" src="https://simpleicons.org/icons/css3.svg" alt="CSS3"> CSS
-  - <img align="left" width="26px" src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript"> JavaScript
-  - <img align="left" width="26px" src="https://simpleicons.org/icons/php.svg" alt="PHP"> PHP
+  - <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"> HTML
+  - <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"> CSS
+  - <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> JavaScript
+  - <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"> PHP
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->

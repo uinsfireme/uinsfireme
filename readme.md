@@ -7,7 +7,7 @@
   - <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP">
 
 - 📫 How to reach me:
-  - 💬 Send a PM on [twitter.com/uinsfireme](https://twitter.com/uinsfireme)
+  - 💬 Send a PM on <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter"> [@uinsfireme](https://twitter.com/uinsfireme)
   - 📧 Send an email on [uinsfireme@gmail.com](mailto:uinsfireme@gmail.com)
 
 - ⚡ Fun fact:

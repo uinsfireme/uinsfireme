@@ -9,6 +9,6 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me on (twitter.com/uinsfireme)[https://twitter.com/uinsfireme]
+- 📫 How to reach me on [twitter.com/uinsfireme](https://twitter.com/uinsfireme)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I will always purple BTS 💜!
